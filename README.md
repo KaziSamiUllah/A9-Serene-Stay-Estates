@@ -24,4 +24,4 @@ to start your serene stay journey today!
 
 ## GitHub Repository
 
-Explore the codebase and contribute to our project on [GitHub]: https://github.com/programming-hero-web-course-4/b9a9-real-estate-KaziSamiUllah
+Explore the codebase and contribute to our project on [GitHub]:https://github.com/KaziSamiUllah/A9-Serene-Stay-Estates
